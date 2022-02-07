@@ -4,3 +4,6 @@
 
 # This is the first attempt in the official projects (Kinda :P ) so, Please don't judge me by the way I code and everything else. Thanks for being with the project.
 
+Things that I will be doing for the first week:
+
+1. Create HTML Pages of all the documents.
