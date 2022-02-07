@@ -7,3 +7,7 @@
 Things that I will be doing for the first week:
 
 1. Create HTML Pages of all the documents.
+
+You can see the website demo here
+
+<a href="/index.html">Click here to goto main page.</a>
